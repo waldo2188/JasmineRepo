@@ -1,0 +1,14 @@
+{
+    "name": "pivotal/jasmine",
+    "type": "lib",
+    "description": "Jasmine is a behavior-driven development framework for testing JavaScript code.",
+    "keywords": ["javascript", "behavior-driven development", "testing"],
+    "homepage": "http://jasmine.github.io",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pivotal Labs",
+            "homepage": "http://pivotallabs.com/"
+        }
+    ]
+}
